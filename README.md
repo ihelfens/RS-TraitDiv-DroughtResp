@@ -17,4 +17,4 @@ This repository contains the script for performing linear modeling on remotely-s
 The script will read the data from `R_resp_Fdiv_reg.csv`, perform the modeling.
 
 ## Contributions
-Contains modified Copernicus Sentinel data [2017-2020].
+Contains modified Copernicus Sentinel data [2017-2020] and Open Government data provided by the cantons Aargau and Zurich.
